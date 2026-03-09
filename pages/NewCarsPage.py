@@ -1,7 +1,10 @@
+from pages.BasePage import BasePage
 
 
+class NewCarsPage(BasePage):
 
-class NewCarsPage():
+    def __init__(self, page):
+        super().__init__(page)
 
     def go_to_toyota(self):
         pass

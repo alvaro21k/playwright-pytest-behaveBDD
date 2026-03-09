@@ -1,10 +1,13 @@
+from pages.BasePage import BasePage
 
+class HomePage(BasePage):
 
-
-class HomePage():
+    def __init__(self, page):
+        super().__init__(page)
 
     def find_new_cars(self):
-        pass
+        self.move_to("newCar_XPATH")
+        self.click("findNewCars_XPATH")
 
     def go_to_used_cars(self):
         pass
