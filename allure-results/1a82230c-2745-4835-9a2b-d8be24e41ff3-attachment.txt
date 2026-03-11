@@ -1,0 +1,2 @@
+[32mINFO    [0m pages.BasePage:BasePage.py:27 Moving to an element newCar_XPATH
+[32mINFO    [0m pages.BasePage:BasePage.py:17 Clicking on an element findNewCars_XPATH

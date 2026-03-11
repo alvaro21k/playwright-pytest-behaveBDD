@@ -1,0 +1,12 @@
+2026-03-11 13:35:33,483 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 13:35:33,745 - BasePage.py:[17] - [INFO] - Clicking on an element findNewCars_XPATH
+2026-03-11 13:35:44,005 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 15:25:18,496 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 15:25:18,966 - BasePage.py:[17] - [INFO] - Clicking on an element findNewCars_XPATH
+2026-03-11 15:25:19,744 - BasePage.py:[17] - [INFO] - Clicking on an element BMW_XPATH
+2026-03-11 15:34:00,199 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 15:35:56,644 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 15:45:40,538 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
+2026-03-11 15:45:40,821 - BasePage.py:[17] - [INFO] - Clicking on an element findNewCars_XPATH
+2026-03-11 15:45:41,227 - BasePage.py:[17] - [INFO] - Clicking on an element BMW_XPATH
+2026-03-11 15:45:52,100 - BasePage.py:[27] - [INFO] - Moving to an element newCar_XPATH
